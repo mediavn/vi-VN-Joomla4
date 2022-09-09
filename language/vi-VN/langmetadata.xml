@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile client="site">
+	<name>Vietnamese (vi-VN)</name>
+	<version>1.0.0</version>
+	<creationDate>April 2022</creationDate>
+	<author>Vietnamese language for Joomla 4</author>
+	<authorEmail>thudo24h@gmail.com</authorEmail>
+	<authorUrl>www.ictsharing.com</authorUrl>
+	<copyright>(C) 2006 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description><![CDATA[vi-VN site language]]></description>
+	<metadata>
+		<name>Vietnamese (United States)</name>
+		<nativeName>Vietnamese (United States)</nativeName>
+		<tag>vi-VN</tag>
+		<rtl>0</rtl>
+		<locale>vi_VN.utf8, vi_VN.UTF-8, vi_VN, vin_VN, vi, vietnam, vietnam-vi, vi</locale>
+		<firstDay>0</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
+	</metadata>
+	<params/>
+</metafile>

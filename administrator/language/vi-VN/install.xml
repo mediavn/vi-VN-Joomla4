@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension client="administrator" type="language" method="upgrade">
+	<name>Vietnamese (vi-VN)</name>
+	<tag>vi-VN</tag>
+	<version>1.0.0</version>
+	<creationDate>April 2022</creationDate>
+	<author>Vietnamese language for joomla 4</author>
+	<authorEmail>thudo24h@gmail.com</authorEmail>
+	<authorUrl>www.ictsharing.com</authorUrl>
+	<copyright>(C) 2013 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>vi-VN administrator language</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params/>
+</extension>
